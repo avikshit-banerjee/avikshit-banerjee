@@ -24,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avikshit-banerjee&show_icons=true&locale=en" alt="avikshit-banerjee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avikshit-banerjee&" alt="avikshit-banerjee" /></p>
-
-![image](https://github.com/avikshit-banerjee/avikshit-banerjee/assets/26388433/21cbee51-a5a2-4309-a77f-f145fe5471e4)
