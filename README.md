@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Avikshit Banerjee</h1>
+<h1 align="center">Hi 👋, I'm Avikshit !</h1>
 <h3 align="center">A passionate Data Scientist, an AI enthusiast and a keen investigator of Human Behaviour.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avikshit-banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="avikshit-banerjee" /> </p>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)">
 
 - 🔭 I’m currently working on **A local knowledge LLM chatbot**
 
