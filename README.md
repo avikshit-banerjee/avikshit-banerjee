@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
 
 
-- 🔭 I’m currently working on **A local knowledge LLM chatbot**
+- 🔭 I’m currently working on **Large Language Models**
 
 - 🌱 I’m currently learning **Transformer Architecture, Prophet**
 
