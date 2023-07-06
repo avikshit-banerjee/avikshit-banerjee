@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avikshit!</h1>
 <h3 align="center">A passionate Data Scientist, an AI enthusiast and a keen investigator of Human Behaviour.</h3>
 
-I'm a Data Scientist with almost 4 years of professional experience of being a software engineer and a data scientist. I hold a Master's Degree in Data Science and Behavioural Science and a Bachelor's Degree in Engineering. I have worked with renowned clients like HSBC, Tesco and Quilter, in delivering data-driven insights and strategies. I'm passionate about the Large Language Models and their applications in our everyday lives.
+I'm a Data Scientist with almost 4 years of professional experience of being a software engineer and a data scientist. I hold a Master's Degree in **Data Science and Behavioural Science** and a Bachelor's Degree in **Engineering**. I have worked with renowned clients like HSBC, Tesco and Quilter, in delivering data-driven insights and strategies. I'm passionate about Large Language Models (LLM) and their applications in our everyday lives.
 
 <img align="right" alt="Coding" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
 
